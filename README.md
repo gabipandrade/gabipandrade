@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriela</h1>
 <h3 align="center">A computer engineer student of University of São Paulo</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabipandrade&label=Profile%20views&color=0e75b6&style=flat" alt="gabipandrade" /> </p>
 
