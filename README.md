@@ -10,6 +10,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gabipandrade&label=Profile%20views&color=blueviolet&style=flat" alt="gabipandrade" />
 </p>
+- 🤖 Interested in Robotics and Automation ⚙️ 
 
 - 🌱 I’m currently learning **Data Science**
 
