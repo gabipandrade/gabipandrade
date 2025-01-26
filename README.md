@@ -36,7 +36,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gabipandrade&theme=darkhub" alt="gabipandrade" />
   </a>
 </p>
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabipandrade/gabipandrade/output/github-contribution-grid-snake-dark.svg">
