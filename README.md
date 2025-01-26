@@ -1,4 +1,6 @@
-![MasterHead](./github-header-image.png)
+<div align="center">
+  <img src="./github-header-image.png" alt="MasterHead">
+</div>
 
 
 <h1 align="center">Hi there👋</h1>
