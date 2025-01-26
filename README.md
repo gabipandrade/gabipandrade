@@ -10,12 +10,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gabipandrade&label=Profile%20views&color=blueviolet&style=flat" alt="gabipandrade" />
 </p>
-- 🤖 Interested in **Robotics and Automation** ⚙️ 
+
 
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me: **gabipandrade@usp.br**
-
+- 🤖 Interested in **Robotics and Automation** ⚙️ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gabrielapassosdeandrade" target="_blank">
