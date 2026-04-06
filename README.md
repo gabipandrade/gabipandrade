@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me: **gabipandrade@usp.br**
-- 🤖 Interested in **Robotics and Automation** ⚙️ 
+- 💻 Interested in Software Engineering and Data Science 📊
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gabrielapassosdeandrade" target="_blank">
